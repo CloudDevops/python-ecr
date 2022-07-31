@@ -27,7 +27,7 @@ jobs:
     steps:
 
     - name: Checkout
-      uses: actions/checkout@master
+      uses: actions/checkout@main
 
     # Add steps here like linting, testing, minification, etc.
     
